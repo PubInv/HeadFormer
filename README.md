@@ -7,8 +7,7 @@ Also, Blender should be set in MM (millimeters), not inches.
 
 # Introduction
 
-
-
+Please see the [user guide](https://github.com/PubInv/HeadFormer/blob/main/docs/USER%20GUIDE.odt) as a starting point.
 
 ## ATTENTION
 
