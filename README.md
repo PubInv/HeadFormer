@@ -9,9 +9,9 @@ Also, Blender should be set in MM (millimeters), not inches.
 
 Please see the [user guide](https://github.com/PubInv/HeadFormer/blob/main/docs/USER%20GUIDE.odt) as a starting point.
 
-## ATTENTION
+# ATTENTION - Blender is Complex
 
-	Blender is not for the faint of heart, it is extremely difficult for the novice user to operate. It even causes frustration among seasoned 3D modelers who may be experts in other pieces of software. The upside here is that Blender is free, open source and mindbogglingly powerful, but life is all about trade-offs and the downside is that it has an absolutely brutal learning curve.
+Blender is not for the faint of heart, it is extremely difficult for the novice user to operate. It even causes frustration among seasoned 3D modelers who may be experts in other pieces of software. The upside here is that Blender is free, open source and mindbogglingly powerful, but life is all about trade-offs and the downside is that it has an absolutely brutal learning curve.
 
 It is highly recommended that a new user to Blender first works through the fundamentals by watching and reading a few hours worth of tutorials before playing with this script.
 
