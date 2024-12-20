@@ -17,5 +17,4 @@ Also, Blender should be set in MM (millimeters), not inches.
 It is highly recommended that a new user to Blender first works through the fundamentals by watching and reading a few hours worth of tutorials before playing with this script.
 
 You have been warned.
-![image](https://github.com/user-attachments/assets/fd4ec16b-e968-4606-b3c0-2eaf9777fa63)
 
